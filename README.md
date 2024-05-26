@@ -9,7 +9,8 @@
 <div align="center">
   🤖 I love creating Discord bots!<br>
   🌱 Currently learning CSS.<br>
-  🎥 I'm also a VTuber clipper (for my collection).
+  🎥 A VTuber clipper (for my collection).
+  A President of ONHEIL Inc. (a Non-Profit Organization)
 </div>
 
 <h3 align="center">Skills</h3>
