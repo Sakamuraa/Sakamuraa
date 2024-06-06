@@ -1,4 +1,7 @@
-<h2 align="center">Hi there! I'm Sakamura, a Discord Bot Developer</h2>
+<h2 align="center">
+  Hi there! I'm Sakamura<br>
+  a Discord Bot Developer
+</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sakamuraa&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="150" alt="GitHub Stats"  />
