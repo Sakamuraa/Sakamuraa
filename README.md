@@ -10,7 +10,7 @@
   🤖 I love creating Discord bots!<br>
   🌱 Currently learning CSS.<br>
   🎥 A VTuber clipper (for my collection).<br><br>
-  Part of ONHEIL Inc. (a Non-Profit Organization)
+  Part of ONHEIL Corp. (a Non-Profit Organization)
 </div>
 
 <h3 align="center">Skills</h3>
