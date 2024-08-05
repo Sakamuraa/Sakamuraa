@@ -12,7 +12,7 @@
 <div align="center">
   🤖 I love creating Discord bots!<br>
   🌱 Currently learning CSS.<br>
-  🎥 A VTuber clipper (for my collection).<br><br>
+  🎥 A VTuber clipper (own collection).<br><br>
   Part of ONHEIL Inc. (a Non-Profit Organization)
 </div>
 
