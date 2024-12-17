@@ -39,6 +39,9 @@
   <a href="https://discord.gg/j8gw8Ur57W">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
+  <a href="https://sakamura.dynv6.net/">
+    <img src="https://sakamura.dynv6.net/images/sakamura.jpg" height="35" alt="Web" />
+  </a>
 </div>
 
 <br clear="both">
