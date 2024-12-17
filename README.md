@@ -25,6 +25,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   </a>
+  <img width="12" />
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  </a>
 </div>
 
 <h3 align="center">Connect with Me</h3>
