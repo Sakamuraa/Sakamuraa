@@ -29,6 +29,9 @@
   <a href="https://en.wikipedia.org/wiki/HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   </a>
+  <a href="https://nodejs.org/" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs" />
+  </a>
 </div>
 
 <h3 align="center">Connect with Me</h3>
