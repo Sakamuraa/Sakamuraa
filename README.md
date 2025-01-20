@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="https://sakamura.dynv6.net/">
-    <img src="https://sakamura.dynv6.net/images/sakamura.png" height="35" alt="Web" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=alienware&label=&color=541BAE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Web" />
   </a>
 </div>
 
