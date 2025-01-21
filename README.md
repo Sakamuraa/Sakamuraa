@@ -29,6 +29,7 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   </a>
+  <img width="12" />
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
   </a>
