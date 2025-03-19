@@ -4,7 +4,6 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakamuraa&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="150" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamuraa&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"  />
 </div>
 
