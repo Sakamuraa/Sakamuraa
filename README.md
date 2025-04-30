@@ -55,7 +55,6 @@
 |Project|Card|
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[VStreams](https://github.com/Sakamuraa/VStreams/wiki)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=VStreams&theme=tokyonight)](https://github.com/Sakamuraa/VStreams)|
-|[VStreams AI Chatbot](https://github.com/Sakamuraa/vstreams-ai)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=vstreams-ai&theme=tokyonight)](https://github.com/Sakamuraa/vstreams-ai)|
 </div>
 
 <br clear="both">
