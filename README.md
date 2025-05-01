@@ -10,7 +10,7 @@
 <h3 align="center">About Me</h3>
 <div align="center">
   🤖 I love creating Discord bots!<br>
-  🌱 Currently learning TS.<br>
+  🌱 Currently learning Kotlin.<br>
   🎥 A VTuber clipper (own collection).<br><br>
   Part of Skynet Reborn Virtual Group
 </div>
