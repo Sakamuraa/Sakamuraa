@@ -12,7 +12,7 @@
   🤖 I love creating Discord bots!<br>
   🌱 Currently learning Kotlin.<br>
   🎥 A VTuber clipper (own collection).<br><br>
-  Part of Skynet Reborn Virtual Group
+  Part of Onheil Foundation (Formerly Skynet Reborn)
 </div>
 
 <h3 align="center">Skills</h3>
