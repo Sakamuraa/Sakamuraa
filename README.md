@@ -52,9 +52,10 @@
   <br>
 <h3> Current Projects </h3>
 
-|Project|Card|
-|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[VStreams](https://github.com/Sakamuraa/VStreams/wiki)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=VStreams&theme=tokyonight)](https://github.com/Sakamuraa/VStreams)|
+|Project|
+|:--------------------------------------------------------------------------------------------:|
+|[VStreams](https://github.com/Sakamuraa/VStreams/wiki)|
+|[Onheil](https://onheil.site/)|
 </div>
 
 <br clear="both">
