@@ -3,10 +3,6 @@
   a Discord Bot Developer
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamuraa&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"  />
-</div>
-
 <h3 align="center">About Me</h3>
 <div align="center">
   🤖 I love creating Discord bots!<br>
@@ -43,7 +39,7 @@
   <a href="https://www.instagram.com/finrzky/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/j8gw8Ur57W" terget="_blank">
+  <a href="https://discord.gg/ytBsd5JSXB" terget="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
 </div>
