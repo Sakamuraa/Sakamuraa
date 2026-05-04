@@ -52,6 +52,7 @@
 |:--------------------------------------------------------------------------------------------:|
 |[VStreams](https://github.com/Sakamuraa/VStreams/wiki)|
 |[Onheil](https://onheil.site/)|
+|[Etherea](https://etherea.onheil.site/)
 </div>
 
 <br clear="both">
