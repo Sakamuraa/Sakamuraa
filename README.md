@@ -47,22 +47,6 @@ Discord bot developer and web builder. I ship small, fast, self-contained things
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">rossy-laundry</h3>
-      <p align="center">
-        <a href="https://github.com/Sakamuraa/rossy-laundry" title="rossy-laundry"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=rossy-laundry&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
-        <br><sub>Sistem manajemen laundry — situs publik, pemesanan pelanggan, panel admin</sub>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">VStreams</h3>
-      <p align="center">
-        <a href="https://github.com/Sakamuraa/VStreams" title="VStreams"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=VStreams&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
-        <br><sub>Serving virtual needs</sub>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -71,26 +55,26 @@ Discord bot developer and web builder. I ship small, fast, self-contained things
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sakamuraa&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=6" width="53%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sakamuraa&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=24292f&icon_color=1f6feb&border_color=d0d7de&border_radius=6" width="53%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamuraa&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=6&hide_title=true" width="40%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakamuraa&layout=compact&bg_color=ffffff&text_color=24292f&border_color=d0d7de&border_radius=6&hide_title=true" width="40%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakamuraa&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakamuraa&theme=default" width="95%" alt="profile details">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sakamuraa&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true&radius=6&custom_title=Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakamuraa&theme=github-light&bg_color=ffffff&color=24292f&line=1f6feb&point=1f6feb&area=true&hide_border=true&radius=6&custom_title=Contribution%20Graph" width="95%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakamuraa&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakamuraa&theme=default" width="48%" alt="repos per language">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakamuraa&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakamuraa&theme=default" width="48%" alt="most commit language">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Sakamuraa&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=8b949e">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sakamuraa&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=57606a" width="55%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sakamuraa&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=8b949e&hide_border=true&border_radius=6">
+    <img src="https://streak-stats.demolab.com?user=Sakamuraa&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&sideNums=57606a&hide_border=true&border_radius=6" width="60%" alt="streak">
   </picture>
 </p>
 
