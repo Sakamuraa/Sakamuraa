@@ -16,7 +16,7 @@
 
 ## About
 
-Discord bot developer and web builder. I ship small, fast, self-contained things — VTuber fan sites, campus tools, laundry panels. TypeScript first, Python when the bot needs it, Kotlin on the learning pile. Part of **[The Onheil Foundation](https://github.com/Sakamuraa)**.
+Discord bot developer and web builder. I ship small, fast, self-contained things — VTuber fan sites, campus tools. TypeScript first, Python when the bot needs it, Kotlin on the learning pile. Part of **[The Onheil Foundation](https://github.com/Sakamuraa)**.
 
 ---
 
