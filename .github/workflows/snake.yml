@@ -1,11 +1,13 @@
+# Optional: regenerates assets/snake-*.svg on the `output` branch.
+#
+# Disabled by default — the SVG assets are committed and refreshed by
+# `python scripts/gen_snake.py Sakamuraa --out assets` instead. GitHub
+# Actions is currently blocked on this account by a billing lock, so
+# automatic runs would only fail. Fix Billing -> re-enable the triggers.
 name: Generate contribution snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12h, UTC
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write

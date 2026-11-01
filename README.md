@@ -82,8 +82,8 @@ Discord bot developer and web builder. I ship small, fast, self-contained things
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakamuraa/Sakamuraa/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Sakamuraa/Sakamuraa/output/snake-light.svg" width="100%" alt="contribution snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakamuraa/Sakamuraa/main/assets/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Sakamuraa/Sakamuraa/main/assets/snake-light.svg" width="100%" alt="contribution snake">
   </picture>
 </p>
 
