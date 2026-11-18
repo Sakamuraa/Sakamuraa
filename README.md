@@ -35,14 +35,14 @@ Discord bot developer and web builder. I ship small, fast, self-contained things
     <td width="50%">
       <h3 align="center">SakuKampus</h3>
       <p align="center">
-        <a href="https://github.com/Sakamuraa/sakukampus" title="sakukampus"><img src="https://sakukampus.web.id/logo.png" width="15%"></a>
+        <a href="https://sakukampus.web.id" title="sakukampus"><img src="https://sakukampus.web.id/logo.png" width="15%"></a>
         <br><sub>Katalog beasiswa + eligibility checker per golongan UKT per kampus</sub>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">VTube Info</h3>
       <p align="center">
-        <a href="https://github.com/Sakamuraa/vtube-info" title="vtube-info"><img src="https://vtube-info.xyz/og-image.png" width="15%"></a>
+        <a href="https://vtube-info.xyz" title="vtube-info"><img src="https://vtube-info.xyz/og-image.png" width="15%"></a>
         <br><sub>An independent index of VTuber channels</sub>
       </p>
     </td>
