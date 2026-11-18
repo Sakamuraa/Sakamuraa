@@ -30,19 +30,19 @@ Discord bot developer and web builder. I ship small, fast, self-contained things
 
 ## Featured Projects
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">sakukampus</h3>
+      <h3 align="center">SakuKampus</h3>
       <p align="center">
-        <a href="https://github.com/Sakamuraa/sakukampus" title="sakukampus"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=sakukampus&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Sakamuraa/sakukampus" title="sakukampus"><img src="https://sakukampus.web.id/logo.png" width="15%"></a>
         <br><sub>Katalog beasiswa + eligibility checker per golongan UKT per kampus</sub>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">vtube-info</h3>
+      <h3 align="center">VTube Info</h3>
       <p align="center">
-        <a href="https://github.com/Sakamuraa/vtube-info" title="vtube-info"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sakamuraa&repo=vtube-info&theme=dark&bg_color=0d1117&hide_border=true&border_color=30363d&show_icons=true" width="100%"></a>
+        <a href="https://github.com/Sakamuraa/vtube-info" title="vtube-info"><img src="https://vtube-info.xyz/og-image.png" width="15%"></a>
         <br><sub>An independent index of VTuber channels</sub>
       </p>
     </td>
